@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="item_menu_text_name_padding">2dp</dimen>
+    <dimen name="menu_main_padding">10dp</dimen>
+    <dimen name="item_menu_text_name_text_size">20sp</dimen>
+    <dimen name="item_menu_image_width">80dp</dimen>
+    <dimen name="item_menu_text_width">85dp</dimen>
+    <dimen name="title_item_fragment_text_size">18sp</dimen>
+    <dimen name="item_news_image_width">100dp</dimen>
+    <dimen name="item_joke_text_title_text_size">18sp</dimen>
+    <dimen name="activity_weather_top_height">50dp</dimen>
+
+</resources>

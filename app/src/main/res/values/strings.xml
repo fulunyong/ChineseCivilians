@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChineseCivilians</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_joke_text">文本笑话</string>
+    <string name="title_joke_route_text">来福笑话</string>
+    <string name="title_joke_route_image">来福图片</string>
+</resources>

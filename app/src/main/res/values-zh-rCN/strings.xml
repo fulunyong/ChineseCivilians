@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">平民助手</string>
+    <string name="item_menu_name_weather">天气查询</string>
+    <string name="item_menu_name_news">平民新闻</string>
+    <string name="item_menu_name_joke">平民笑话</string>
+    <string name="title_news_entertainment">娱乐花边</string>
+    <string name="list_start_pull_label">正在下拉刷新。。。</string>
+    <string name="list_pull_refreshing_label">正在玩命加载中....</string>
+    <string name="list_pull_release_label">放开刷新</string>
+    <string name="list_end_pull_label">正在上拉刷新。。。</string>
+    <string name="list_pull_load_end">数据已经加载完毕！</string>
+    <string name="title_news_sports">体育新闻</string>
+    <string name="title_news_anecdote">奇闻轶事</string>
+    <string name="title_news_belle">性感美女</string>
+    <string name="url_useless" >无法加载的URL地址。。。。</string>
+    <string name="toast_network_useless">您的网络不给力哦，建议使用WiFi或者4G网络更流畅！</string>
+    <string name="title_joke_text">文本笑话</string>
+    <string name="title_joke_image">图片笑话</string>
+    <string name="title_joke_route_text">来福笑话</string>
+    <string name="title_joke_route_image">来福图片</string>
+</resources>
